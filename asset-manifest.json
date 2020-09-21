@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5facb584.chunk.css",
+    "main.js": "/static/js/main.3142c4c3.chunk.js",
+    "main.js.map": "/static/js/main.3142c4c3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6c209aa3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6c209aa3.js.map",
+    "static/js/2.559cd756.chunk.js": "/static/js/2.559cd756.chunk.js",
+    "static/js/2.559cd756.chunk.js.map": "/static/js/2.559cd756.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.04c5197b2b972bd0a1e7fe71d1d75abd.js": "/precache-manifest.04c5197b2b972bd0a1e7fe71d1d75abd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.559cd756.chunk.js.LICENSE.txt": "/static/js/2.559cd756.chunk.js.LICENSE.txt",
+    "static/media/Resume_Xiuming_CUI.pdf": "/static/media/Resume_Xiuming_CUI.86c9d242.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c209aa3.js",
+    "static/js/2.559cd756.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.3142c4c3.chunk.js"
+  ]
+}
