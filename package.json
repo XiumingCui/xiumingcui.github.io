@@ -1,6 +1,6 @@
 {
   "name": "personal-website-2020",
-  "version": "0.1.0",
+  "version": "1.0",
   "private": true,
   "homepage": "http://xiumingcui.github.io/",
   "dependencies": {
@@ -14,7 +14,6 @@
     "react-ga": "^3.1.2",
     "react-scripts": "3.4.3"
   },
-
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
