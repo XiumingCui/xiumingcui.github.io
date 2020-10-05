@@ -25,19 +25,19 @@ class Resume extends Component {
             </p>
             {/* <p>{work.description.join(" \r\n ")}</p> */}
             <p>
-              Tech stack: JavaScript, Angular, AngularJS, HTML, CSS, NodeJS,
+              Tech stack: JavaScript, React, Redux, AngularJS, HTML, CSS, NodeJS,
               JQuery, SharePoint 2013 <br />
               - Participated in designing and realizing multiple FS hotel
               intranet web applications, responsible for <br />
               - Implemented user authorization management module using
-              AngularJS, JQuery, which only grants correspond user groups
+              React, AngularJS, JQuery, which only grants correspond user groups
               permission to access certain items and helps admins to view and
               manage user management system efficiently. <br /> - Redesigned and
-              realized company internal audit application using Angular and
+              realized company internal audit application using ReactJS, Redux, AngularJS and
               NodeJS, which provides more comprehensive functions, simpler user
               interface and reduced audit time by 40% <br /> - Created sites,
               built custom webparts, and managed permissions and content as
-              requested from requestors using SharePoint 2013 <br /> - Utilized
+              requested from requestors <br /> - Utilized
               jQuery to create custom enhancements on app sites for user
               satisfaction and efficiency - Optimized custom workflows for
               multiple applications’ approval function, which simplifies the

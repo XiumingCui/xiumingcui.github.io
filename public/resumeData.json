@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Xiuming Cui",
-    "occupation":"Frontend Web Developer",
+    "occupation":"Fullstack Web Developer",
     "description":"Like building things. 👨‍💻",
     "image":"Xiuming.jpg",
-    "bio":"Passionate, detail-oriented young developer with frontend development experience who builds web applications using JavaScript, React and other popular frameworks and libraries.",
+    "bio":"Passionate, detail-oriented young developer with fullstack development experience who builds web applications using JavaScript, ReactJS, AngularJS, NodeJS and other popular frameworks and libraries.",
     "contactmessage":"",
     "email": "xiumingcuicareer@gmail.com",
     "phone": "647-273-5000",
@@ -12,7 +12,7 @@
       "street":"21 Horner Ct",
       "city":"Toronto",
       "homecity": "Richmond Hill",
-      "state":"ON",
+      "state":"Ontario",
       "zip": "L4B3G6"
     },
     "website": "http://xiumingcui.github.io",
