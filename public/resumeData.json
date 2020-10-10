@@ -1,57 +1,57 @@
 {
   "main": {
-    "name":"Xiuming Cui",
-    "occupation":"Fullstack Web Developer",
-    "description":"Like building things. 👨‍💻",
-    "image":"Xiuming.jpg",
-    "bio":"Passionate, detail-oriented young developer with fullstack development experience who builds web applications using JavaScript, ReactJS, AngularJS, NodeJS and other popular frameworks and libraries.",
-    "contactmessage":"",
+    "name": "Xiuming Cui",
+    "occupation": "Fullstack Web Developer",
+    "description": "Enjoy building things. 👨‍💻 ",
+    "image": "Xiuming.jpg",
+    "bio": "Passionate, detail-oriented young developer with fullstack development experience who builds web applications using JavaScript, ReactJS, Redux, AngularJS, NodeJS and other popular frameworks and libraries.",
+    "contactmessage": "",
     "email": "xiumingcuicareer@gmail.com",
     "phone": "647-273-5000",
-    "address":{
-      "street":"21 Horner Ct",
-      "city":"Toronto",
+    "address": {
+      "street": "21 Horner Ct",
+      "city": "Toronto",
       "homecity": "Richmond Hill",
-      "state":"Ontario",
+      "state": "Ontario",
       "zip": "L4B3G6"
     },
     "website": "http://xiumingcui.github.io",
-    "resumedownload":"./Resume_Xiuming CUI.pdf",
-    "social":[
+    "resumedownload": "./Resume_Xiuming CUI.pdf",
+    "social": [
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/xiumingcui/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/xiumingcui/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"github",
-        "url":"http://github.com/xiumingcui",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "http://github.com/xiumingcui",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"",
-    "education":[
+  "resume": {
+    "skillmessage": "",
+    "education": [
       {
-        "school":"University of Ottawa",
-        "degree":"Masters in Computer Engineering",
-        "graduated":"July 2018",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "University of Ottawa",
+        "degree": "Masters in Computer Engineering",
+        "graduated": "July 2018",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"University of Nottingham",
-        "degree":"Bachelor in Electrical and Electronic Engineering",
-        "graduated":"July 2016",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "University of Nottingham",
+        "degree": "Bachelor in Electrical and Electronic Engineering",
+        "graduated": "July 2016",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Four Seasons Hotels and Resorts",
-        "title":"Application Developer",
-        "years":"Nov. 2019 - Apr. 2020",
-        "description":[
+        "company": "Four Seasons Hotels and Resorts",
+        "title": "Application Developer",
+        "years": "Nov. 2019 - Apr. 2020",
+        "description": [
           "Tech stack: JavaScript, Angular, AngularJS, HTML, CSS, SharePoint 2013, JQuery, NodeJS",
           "- Participated in designing and realizing multiple FS hotel intranet web applications, responsible for",
           "  function drawSomeText(id) {",
@@ -59,77 +59,78 @@
           "  var text = document.getElementById('inputtext').value;",
           "  pjs.drawText(text);}",
           "-->",
-          "</script>"]
+          "</script>"
+        ]
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"JavaScript/ HTML/ CSS",
-        "level":"90%"
+        "name": "JavaScript/ HTML/ CSS",
+        "level": "90%"
       },
       {
-        "name":"ReactJs",
-        "level":"80%"
+        "name": "ReactJs",
+        "level": "80%"
       },
       {
-        "name":"AngularJS",
-        "level":"80%"
+        "name": "AngularJS",
+        "level": "80%"
       },
       {
-        "name":"Angular",
-        "level":"80%"
+        "name": "JQuery",
+        "level": "60%"
       },
       {
-        "name":"NodeJs",
-        "level":"70%"
+        "name": "NodeJs",
+        "level": "60%"
       },
       {
-        "name":"MySQL",
-        "level":"70%"
+        "name": "MySQL",
+        "level": "70%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"COVID-19 Tracker",
-        "category":"A React porjcet with Firebase",
-        "image":"Covid-19.png",
-        "url":"https://covid-19-tracker-a00b5.web.app/"
+        "title": "HAPI FHIR Playground: Basic Test ",
+        "category": "This project is a skeleton project for querying data from the HAPI FHIR public test server",
+        "image": "HAPI FHIR.png",
+        "url": "https://github.com/XiumingCui/playground-basic-test-app-react"
       },
       {
-        "title":"Facebook Messenger Clone",
-        "category":"A Facebook Messenger Clone using React and Firebase",
-        "image":"FBMessenger.png",
-        "url":"https://facebook-messenger-clone-e51dd.web.app/"
+        "title": "Music Playlist",
+        "category": "This project is a skeleton project for adding and removing song to favourite/listened list",
+        "image": "Playlist.png",
+        "url": "https://github.com/XiumingCui/Playlist_React_Redux"
       },
       {
-        "title":"Personal Website",
-        "category":"A React based personal website",
-        "image":"Personal-Website.png",
-        "url":"http://xiumingcui.github.io"
+        "title": "COVID-19 Tracker",
+        "category": "A React porjcet with Firebase",
+        "image": "Covid-19.png",
+        "url": "https://covid-19-tracker-a00b5.web.app/"
       },
-           {
-        "title":"Blog",
-        "category":"A React and Redux project",
-        "image":"project-1.jpg",
-        "url":"https://github.com/XiumingCui/Blog_Redux"
+      {
+        "title": "Facebook Messenger Clone",
+        "category": "A Facebook Messenger Clone using React and Firebase",
+        "image": "FBMessenger.png",
+        "url": "https://facebook-messenger-clone-e51dd.web.app/"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Xiuming, Thank you for all that you've contributed to our team over the past several months.  Your hard work and dedication have been greatly appreciated.  It was also fun to get to know you outside of work!  You will be missed but we'll be sure to stay in touch.  ",
-        "user":"Cory Weech (Vice President, IT Security and Infrastructure @ Four Seasons)"
+        "text": "Xiuming, Thank you for all that you've contributed to our team over the past several months.  Your hard work and dedication have been greatly appreciated.  It was also fun to get to know you outside of work!  You will be missed but we'll be sure to stay in touch.  ",
+        "user": "Cory Weech (Vice President, IT Security and Infrastructure @ Four Seasons)"
       },
       {
-        "text":"Hi Xiuming, glad to the opportunity to spend the pass few months working with you and learned a lot from you at the personal level as well. ",
-        "user":"Tak Wan (Manager, Application Support @ Four Seasons)"
+        "text": "Hi Xiuming, glad to the opportunity to spend the pass few months working with you and learned a lot from you at the personal level as well. ",
+        "user": "Tak Wan (Manager, Application Support @ Four Seasons)"
       },
       {
-        "text":"Xiuming (Professor X)!  It was so great to have worked with you and thanks for putting up with me 😁. ",
-        "user":"Michelle Alvia (Application Developer @ Four Seasons)"
+        "text": "Xiuming (Professor X)!  It was so great to have worked with you and thanks for putting up with me 😁. ",
+        "user": "Michelle Alvia (Application Developer @ Four Seasons)"
       }
     ]
   }
